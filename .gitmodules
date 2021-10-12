@@ -1,6 +1,6 @@
 [submodule "frontend/listmsc"]
 	path = frontend/listmsc
 	url = git@github.com:DanielNery/frontend-list-mscs-genius.git
-[submodule "apis"]
+[submodule "apis/listmsc"]
 	path = apis
 	url = git@github.com:DanielNery/api-list-mscs-genius.git
