@@ -8,6 +8,9 @@ https://user-images.githubusercontent.com/59855397/137046469-6c3b02d4-2cdf-479f-
 
 > Busque pelas 10 músicas mais populares de seus artistas favoritos.
 > Descubras novas músicas e novos cantores e bandas.
+> /search/Eminem (Lista os conteúdos envolvendo a string informada)
+> /artist/45/Eminem (Lista as 10 Músicas mais populares do artista)
+> /artist/45/Eminem?cache=False (Faz uma nova requisição atualziando os dados)
 
 ![eminemapi](https://user-images.githubusercontent.com/59855397/137046580-9dce794c-502e-47e6-b295-349db9f951bb.png)
 
