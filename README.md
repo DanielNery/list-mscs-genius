@@ -7,6 +7,7 @@
 https://user-images.githubusercontent.com/59855397/137046469-6c3b02d4-2cdf-479f-931f-0b6e7f89234f.mp4
 
 > Busque pelas 10 músicas mais populares de seus artistas favoritos.
+> Descubras novas músicas e novos cantores e bandas.
 
 ![eminemapi](https://user-images.githubusercontent.com/59855397/137046580-9dce794c-502e-47e6-b295-349db9f951bb.png)
 
@@ -27,6 +28,14 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Criar Cluster com Redis para armazena os dados em cache usando o Amazon ElastiCache
 - [ ] Https Na API
 - [ ] Refatorar código com foco em segurança, tratar variáveis de ambiente.
+
+> Armazenamento de dados no DynamoDB
+
+![dynamodb](https://user-images.githubusercontent.com/59855397/137047208-23fd1281-3a63-4337-a9fc-cdcb33ddbedb.png)
+
+> Sistema de cache com Redis
+
+![redis](https://user-images.githubusercontent.com/59855397/137047309-d713f915-2a9c-49de-99cc-884ef7a82de6.png)
 
 ## 💻 Pré-requisitos
 
