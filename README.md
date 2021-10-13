@@ -17,7 +17,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Autenticar e consumir Genius API
 - [ ] Testes com pytests
 - [x] Armazenar dados em cache com Redis
-- [x] Configurar o o Amazon DynamoDB 
+- [x] Configurar o Amazon DynamoDB 
 - [x] Armazenar dados no Amazon DynamoDB
 - [x] Criar interface para usuário visualizar artistas e músicas
 - [x] Deploy da API em na Amazon EC2 com Gunicorn e Nginx
@@ -35,7 +35,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Ter configurado as variáveis de ambiente
 * Ter o Redis instalado em sua máquina.
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando o List Musics From Genius
 
 Para instalar o List Musics From Genius, siga estas etapas:
 
@@ -43,6 +43,15 @@ Para instalar o List Musics From Genius, siga estas etapas:
 git clone https://github.com/DanielNery/list-mscs-genius.git
 git submodule update --init --recursive --remote
 git submodule status
+cd apis/listmsc
+virtualenv venv
+source venv/bin/activate
+pip3 install -r requiriments.txt
+python3 app.py
+
+cd frontend/listmsc
+npm i
+npm start
 
 ```
 
