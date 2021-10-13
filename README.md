@@ -1,14 +1,16 @@
 # List Musics From Genius
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
-
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+https://user-images.githubusercontent.com/59855397/137046469-6c3b02d4-2cdf-479f-931f-0b6e7f89234f.mp4
 
 > Busque pelas 10 músicas mais populares de seus artistas favoritos.
+
+![eminemapi](https://user-images.githubusercontent.com/59855397/137046580-9dce794c-502e-47e6-b295-349db9f951bb.png)
+
+![list_music_with-genius](https://user-images.githubusercontent.com/59855397/137046126-d61508fb-9b32-4a54-ba49-8a29c29099e9.png)
 
 ### Ajustes e melhorias
 
